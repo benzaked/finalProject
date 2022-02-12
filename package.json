@@ -7,7 +7,7 @@
     "postinstall": "jetify"
   },
   "dependencies": {
-    "ajv": "^6.8.1",
+    "ajv": "^6.12.3",
     "expo": "^35.0.0",
     "expo-google-app-auth": "^7.0.0",
     "expo-google-sign-in": "^7.0.0",
